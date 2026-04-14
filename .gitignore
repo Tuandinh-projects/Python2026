@@ -179,3 +179,7 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+API key.env (local only, never commit)
+*.env
+exercise/\# .env (local only, never commit)
+exercise/\# .env.txt
